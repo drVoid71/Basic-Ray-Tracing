@@ -58,6 +58,6 @@ implemented as part of the ray tracing application but the color is used as shad
 ambient color.
 
 ## Credits
-Many thanks and credits to [Hillsoft](https://github.com/Hillsoft) for making such a good tutorial 
-for Ray Tracing.  All the classes that were previously mentioned were cloned from his Ray Tracing project.
+Many thanks and credits to [Hillsoft](https://github.com/Hillsoft) for making such a [good tutorial for Ray Tracing]
+(https://youtu.be/RIgc5J_ZGu8).  All the classes that were previously mentioned were cloned from his Ray Tracing project.
 Visit his GitHub profile for more details!
