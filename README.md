@@ -20,7 +20,7 @@ implementation files):
 
 By using this program, you should be able to obtain a ray traced image like this:
 
-![alt text](https://github.com/konoha71/Basic-Ray-Tracing/blob/master/Screenshot_raytracing.png)
+![alt text](https://github.com/konoha71/Basic-Ray-Tracing/blob/master/Screenshot_raytracing_4K.png)
 
 ## Details about the classes used in this project (credits to Hillsoft)
 
